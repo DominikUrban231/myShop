@@ -1,4 +1,3 @@
-// import Counter from './components/Counter'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import ProductPage from './pages/ProductPage'

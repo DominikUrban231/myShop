@@ -19,6 +19,5 @@ const productsSlice = createSlice({
   },
 })
 
-// Eksportuj reducer jako domyślny
 export const { setProducts } = productsSlice.actions
 export default productsSlice.reducer
